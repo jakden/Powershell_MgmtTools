@@ -42,7 +42,7 @@
 '15. Select this option to provide your own path (this can include LAN paths)' | Write-Host -ForegroundColor Magenta
 
 $blah = Read-Host -Prompt 'Enter the number of the image you wanted to use'
-if 
+
 
 
 ###########################TODO##############################
