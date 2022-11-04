@@ -1,3 +1,3 @@
-function Ping-Test($var){
-ping ($var)
+function Ping-Test{
+ping $var
 }
