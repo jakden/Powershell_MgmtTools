@@ -1,3 +1,3 @@
 function Ping-Test{
-ping 1.1.1.1
+ping 8.8.8.8
 }
