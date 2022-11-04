@@ -1,3 +1,3 @@
 function Ping-Test{
-ping $var
+ping 8.8.8.8
 }
